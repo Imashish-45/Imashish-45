@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **ashish.upadhyay8332@gmail.com**
 
-- ⚡ Fun fact: **Person with problem solving mindset got assisted by AI**
+- ⚡ Fun fact: **A person with problem solving mindset got assisted by AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
