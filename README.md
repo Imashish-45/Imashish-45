@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imashish-45&label=Profile%20views&color=0e75b6&style=flat" alt="imashish-45" /> </p>
 
-- 🌱The current focus is on **Langchain**
+- 🌱The current focus is on **Building AI apps with Langchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Imashish-45?tab=repositories](https://github.com/Imashish-45?tab=repositories)
 
