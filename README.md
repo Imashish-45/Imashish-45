@@ -1,4 +1,4 @@
-![logo](https://github.com/Imashish-45/Imashish-45/blob/main/Data%20Scientist%20(1).png)
+![logo](https://github.com/Imashish-45/Imashish-45/blob/main/Data%20Scientist%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">I am a passionate AI model developer and am currently working as a Computer Vision intern at Datavision.AI</h3>
