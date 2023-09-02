@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
 <h3 align="center">I am a passionate AI model developer and am currently working as a Computer Vision intern at Datavision.AI</h3>
 
-<img align = "right" alt= "coding" width="350" src= "https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
+<img align = "right" alt= "coding" width="375" src= "https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imashish-45&label=Profile%20views&color=0e75b6&style=flat" alt="imashish-45" /> </p>
 
