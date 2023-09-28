@@ -1,7 +1,7 @@
 ![logo](https://github.com/Imashish-45/Imashish-45/blob/main/Data%20Scientist%20(2).png)
 
 <h1 align="center">Hi 👋, I'm Ashish Upadhyay</h1>
-<h3 align="center">I am a passionate AI model developer and am currently working as a Machine leaarning intern at Metricoid Technology Solutions </h3>
+<h3 align="center">I am a passionate AI model developer and am currently working as a Machine learning intern at Metricoid Technology Solutions </h3>
 
 <img align = "right" alt= "coding" width="375" src= "https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
 
